@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: John Tabor's Ride. Woodcut from an Almanac, 1841.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/782c8a67bc9e1afd0036119641a7cb47_taborsride.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/782c8a67bc9e1afd0036119641a7cb47_taborsride.jpg
 file_type: image/jpeg
 image_metadata:
   caption: John Tabor's Ride. Woodcut from an Almanac, 1841.
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'John Tabor''s Ride. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: taborsride.jpg
 uid: 782c8a67-bc9e-1afd-0036-119641a7cb47

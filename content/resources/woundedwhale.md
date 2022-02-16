@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Wounded Sperm Whale. Drawn by William Bradford (n.d.).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/2e26ab1d2c6fd069983e816b8688a5fb_woundedwhale.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/2e26ab1d2c6fd069983e816b8688a5fb_woundedwhale.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Wounded Sperm Whale. Drawn by William Bradford (n.d.).
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: Wounded Sperm Whale.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: woundedwhale.jpg
 uid: 2e26ab1d-2c6f-d069-983e-816b8688a5fb

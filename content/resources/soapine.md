@@ -2,13 +2,17 @@
 content_type: resource
 description: 'Soapine Advertisment. Soapine Advertisment, Kendall Manufacturing Company,
   Providence, Rhode Island (n.d.). '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/d1db2c9f5c9317965a39a65f2bfd2054_soapine.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/d1db2c9f5c9317965a39a65f2bfd2054_soapine.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Soapine Advertisment. Soapine Advertisment, Kendall Manufacturing Company,
     Providence, Rhode Island (n.d.).
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'Soapine Advertisment. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: soapine.jpg
 uid: d1db2c9f-5c93-1796-5a39-a65f2bfd2054

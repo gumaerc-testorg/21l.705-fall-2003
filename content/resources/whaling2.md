@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Whale Being Harpooned.Colored engraving (n.d.). '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/abffc6e8b6c24d117afc9a3f2a3f513a_whaling2.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/abffc6e8b6c24d117afc9a3f2a3f513a_whaling2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Whale Being Harpooned.Colored engraving (n.d.).
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'Whale Being Harpooned.Colored engraving (n.d.). '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: whaling2.jpg
 uid: abffc6e8-b6c2-4d11-7afc-9a3f2a3f513a

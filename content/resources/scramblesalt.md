@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'A Scramble for Salt Junk.  Colored engraving (n.d). '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/4b328de813ff5d6f1d41953b89c54463_scramblesalt.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/4b328de813ff5d6f1d41953b89c54463_scramblesalt.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A Scramble for Salt Junk. Colored engraving (n.d).
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'A Scramble for Salt Junk. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: scramblesalt.jpg
 uid: 4b328de8-13ff-5d6f-1d41-953b89c54463

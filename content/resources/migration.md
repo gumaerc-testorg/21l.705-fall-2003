@@ -2,7 +2,7 @@
 content_type: resource
 description: Black Migration -- Exoduster Movement. Town site plan for Nicodemus,
   Kansas, 1877-1890.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/8564ccf16275e80a693eee10fa3b5b40_migration.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/8564ccf16275e80a693eee10fa3b5b40_migration.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Black Migration -- Exoduster Movement. Town site plan for Nicodemus, Kansas,
@@ -11,6 +11,10 @@ image_metadata:
     American Building Survey Field Records, Prints and Photographs Division (109).
   image-alt: Black Migration -- Exoduster Movement. Town site plan for Nicodemus,
     Kansas, 1877-1890.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Morrison Images
+parent_type: CourseSection
 resourcetype: Image
 title: migration.jpg
 uid: 8564ccf1-6275-e80a-693e-ee10fa3b5b40

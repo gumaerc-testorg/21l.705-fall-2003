@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: f8752ec7-a81a-2d32-8223-58886b65b568
 title: Melville Images
 uid: 58b71220-13de-131e-dd03-d9e6f9c91ca7
 ---
 
-{{< image-gallery id="58b71220-13de-131e-dd03-d9e6f9c91ca7_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/" >}}
+{{< image-gallery id="58b71220-13de-131e-dd03-d9e6f9c91ca7_nanogallery2" baseUrl="/courses/21l-705-major-authors-melville-and-morrison-fall-2003/" >}}
 {{< image-gallery-item href="2772045bc61cf1c04143c8f3c9912a27_visitnewbedford.jpg" data-ngdesc="View of New Bedford. Engraving drawn by J. W. Hill, engraved by Wellstood & Peters, published by Smith Brothers & Co., 1852." text="View of New Bedford. Engraving drawn by J. W. Hill, engraved by Wellstood & Peters, published by Smith Brothers & Co., 1852." >}}
 {{< image-gallery-item href="b534eed069b7d895d296e39b5892ae2c_seafaringlife.jpg" data-ngdesc="Life in the Forecastle. Photo of illustration, A. A. Schmidt, J. Halpin. From J. Ross Browne, Etchings of a Whaling Cruise (New York: Harper Brothers, 1846)." text="Life in the Forecastle. Photo of illustration, A. A. Schmidt, J. Halpin. From J. Ross Browne, Etchings of a Whaling Cruise (New York: Harper Brothers, 1846)." >}}
 {{< image-gallery-item href="4b328de813ff5d6f1d41953b89c54463_scramblesalt.jpg" data-ngdesc="A Scramble for Salt Junk. Colored engraving (n.d)." text="A Scramble for Salt Junk. Colored engraving (n.d)." >}}

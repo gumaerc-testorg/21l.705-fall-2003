@@ -3,7 +3,7 @@ content_type: resource
 description: '(French) Whaleman at the Masthead.  Engraving based on A. A. Schmidt,
   J. Halpin. From J. Ross Browne, Etchings of a Whaling Cruise (New York: Harper Brothers,
   1846).'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/15f46217669e99873db9786d8ac47df2_whalemanmasthead.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/15f46217669e99873db9786d8ac47df2_whalemanmasthead.jpg
 file_type: image/jpeg
 image_metadata:
   caption: '(French) Whaleman at the Masthead. Engraving based on A. A. Schmidt, J.
@@ -11,6 +11,10 @@ image_metadata:
     1846).'
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: (French) Whaleman at the Masthead.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: whalemanmasthead.jpg
 uid: 15f46217-669e-9987-3db9-786d8ac47df2

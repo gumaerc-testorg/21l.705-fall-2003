@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: 'Cutting In and Trying Out. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/747d009fdfe36519fb5c3b4f595d3f32_cuttingin.jpg
+file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/747d009fdfe36519fb5c3b4f595d3f32_cuttingin.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Cutting In and Trying Out.
   credit: 'Image courtesy of J. Ross Browne, Etchings of a Whaling Cruise (New York:
     Harper Brothers, 1846).'
   image-alt: Cutting In and Trying Out.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Melville Images
+parent_type: CourseSection
 resourcetype: Image
 title: cuttingin.jpg
 uid: 747d009f-dfe3-6519-fb5c-3b4f595d3f32
