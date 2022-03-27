@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
+parent_uid: 38c70c5a-3491-0b71-6066-af8bcba9a195
 resourcetype: Image
 title: migration.jpg
 uid: 8564ccf1-6275-e80a-693e-ee10fa3b5b40

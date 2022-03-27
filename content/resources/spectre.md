@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
+parent_uid: 58b71220-13de-131e-dd03-d9e6f9c91ca7
 resourcetype: Image
 title: spectre.jpg
 uid: 04c59436-5874-6c24-4990-5186b5b54b9b

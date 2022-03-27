@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
+parent_uid: 38c70c5a-3491-0b71-6066-af8bcba9a195
 resourcetype: Image
 title: harlem.jpg
 uid: 7e3491d3-cd7f-6b81-4ede-5273a36758c3

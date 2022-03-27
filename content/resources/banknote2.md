@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
+parent_uid: 58b71220-13de-131e-dd03-d9e6f9c91ca7
 resourcetype: Image
 title: banknote2.jpg
 uid: 8c9eed7f-9b84-a308-a3c8-26c8c25db002

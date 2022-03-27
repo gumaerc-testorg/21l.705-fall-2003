@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
+parent_uid: 38c70c5a-3491-0b71-6066-af8bcba9a195
 resourcetype: Image
 title: tulsariot.jpg
 uid: 007e63f9-ef96-9453-25fc-cdccd59bf10e

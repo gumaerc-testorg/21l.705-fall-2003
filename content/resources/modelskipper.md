@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
+parent_uid: 58b71220-13de-131e-dd03-d9e6f9c91ca7
 resourcetype: Image
 title: modelskipper.jpg
 uid: 0e6e31f2-67d2-cc4b-9bd9-65740acd5970

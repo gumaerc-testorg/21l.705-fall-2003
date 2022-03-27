@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
+parent_uid: 58b71220-13de-131e-dd03-d9e6f9c91ca7
 resourcetype: Image
 title: harpooner2.jpg
 uid: aded9c1e-8d22-ff59-53d6-2b43bf0a9396

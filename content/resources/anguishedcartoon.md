@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
+parent_uid: 38c70c5a-3491-0b71-6066-af8bcba9a195
 resourcetype: Image
 title: anguishedcartoon.jpg
 uid: f945bdc4-2d2c-e204-26ba-cf883c05a931
