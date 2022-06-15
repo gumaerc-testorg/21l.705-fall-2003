@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Archie, Fred, and Eugene.
-file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/6f07d1176794a663a01c5901bd07bf45_3guys.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/6f07d1176794a663a01c5901bd07bf45_3guys.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Archie, Fred, and Eugene.
@@ -17,3 +17,5 @@ resourcetype: Image
 title: 3guys.jpg
 uid: 6f07d117-6794-a663-a01c-5901bd07bf45
 ---
+Archie, Fred, and Eugene.
+

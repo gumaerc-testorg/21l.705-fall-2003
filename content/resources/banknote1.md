@@ -2,7 +2,7 @@
 content_type: resource
 description: 'New Bedford Banknote (Garneray). One Dollar Bill. Mechanics Bank of
   New Bedford (June 1, 1858). '
-file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/5dcd5a0a8c2d319aa100cea912187542_banknote1.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/5dcd5a0a8c2d319aa100cea912187542_banknote1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: New Bedford Banknote (Garneray). One Dollar Bill. Mechanics Bank of New
@@ -18,3 +18,5 @@ resourcetype: Image
 title: banknote1.jpg
 uid: 5dcd5a0a-8c2d-319a-a100-cea912187542
 ---
+New Bedford Banknote (Garneray). One Dollar Bill. Mechanics Bank of New Bedford (June 1, 1858). 
+

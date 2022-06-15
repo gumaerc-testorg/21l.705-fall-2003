@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Model Skipper.
-file: /media/courses/21l-705-major-authors-melville-and-morrison-fall-2003/0e6e31f267d2cc4b9bd965740acd5970_modelskipper.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/0e6e31f267d2cc4b9bd965740acd5970_modelskipper.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The Model Skipper.
@@ -17,3 +17,5 @@ resourcetype: Image
 title: modelskipper.jpg
 uid: 0e6e31f2-67d2-cc4b-9bd9-65740acd5970
 ---
+The Model Skipper.
+
