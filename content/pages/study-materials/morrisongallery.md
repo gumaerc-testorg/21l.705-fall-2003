@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: f8752ec7-a81a-2d32-8223-58886b65b568
 title: Morrison Images
 uid: 38c70c5a-3491-0b71-6066-af8bcba9a195
 ---
 
-{{< image-gallery id="38c70c5a-3491-0b71-6066-af8bcba9a195_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21l-705-major-authors-melville-and-morrison-fall-2003/" >}}
+{{< image-gallery id="38c70c5a-3491-0b71-6066-af8bcba9a195_nanogallery2" baseUrl="/courses/21l-705-major-authors-melville-and-morrison-fall-2003/" >}}
 {{< image-gallery-item href="f945bdc42d2ce20426bacf883c05a931_anguishedcartoon.jpg" data-ngdesc="Cartoon showing anguished woman kneeling next to the body of a lynched man, by Laurence Foy." text="Cartoon showing anguished woman kneeling next to the body of a lynched man, by Laurence Foy." >}}
 {{< image-gallery-item href="9169acc56c7d9348df00f78cb248231a_exoduster.jpg" data-ngdesc="Black Migration -- Exoduster Movement, 1878." text="Black Migration -- Exoduster Movement, 1878." >}}
 {{< image-gallery-item href="7e3491d3cd7f6b814ede5273a36758c3_harlem.jpg" data-ngdesc="Harlem Renaissance" text="Harlem Renaissance" >}}
