@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'Engraving After Garneray. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: garneray2.jpg
 uid: 86bfa67c-ba8a-9e86-daa4-a51922489650
 ---
 Engraving After Garneray. Identified as "Usual Whaling Scene: Colored--modern." 
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: New London Bank Note.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: banknote5.jpg
 uid: a13c409d-005d-9cd8-0a45-709bbf2f28c0
 ---
 New London Bank Note. One Dollar Bill. The Whaling Bank, New London, 1864.
-

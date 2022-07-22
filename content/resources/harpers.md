@@ -9,6 +9,7 @@ image_metadata:
     Monthly Magazine XXI (June 1860), 1.
   image-alt: A Summer in New England.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: harpers.jpg
 uid: 0d7d672f-5b56-5ad6-83f4-2d2b636fce11
 ---
 A Summer in New England. 
-

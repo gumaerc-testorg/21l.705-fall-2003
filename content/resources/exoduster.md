@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Library of Congress.
   image-alt: Black Migration -- Exoduster Movement, 1878.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: exoduster.jpg
 uid: 9169acc5-6c7d-9348-df00-f78cb248231a
 ---
 Black Migration -- Exoduster Movement, 1878.
-

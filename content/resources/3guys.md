@@ -9,6 +9,7 @@ image_metadata:
     H. T. Coates, 1876), published byH. T. Coates.
   image-alt: Archie, Fred, and Eugene.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 3guys.jpg
 uid: 6f07d117-6794-a663-a01c-5901bd07bf45
 ---
 Archie, Fred, and Eugene.
-

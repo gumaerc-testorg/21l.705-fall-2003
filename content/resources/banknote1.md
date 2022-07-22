@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'New Bedford Banknote (Garneray). '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: banknote1.jpg
 uid: 5dcd5a0a-8c2d-319a-a100-cea912187542
 ---
 New Bedford Banknote (Garneray). One Dollar Bill. Mechanics Bank of New Bedford (June 1, 1858). 
-

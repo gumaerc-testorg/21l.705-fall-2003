@@ -12,6 +12,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: (French) Whaleman at the Masthead.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: whalemanmasthead.jpg
 uid: 15f46217-669e-9987-3db9-786d8ac47df2
 ---
 (French) Whaleman at the Masthead.  Engraving based on A. A. Schmidt, J. Halpin. From J. Ross Browne, Etchings of a Whaling Cruise (New York: Harper Brothers, 1846).
-

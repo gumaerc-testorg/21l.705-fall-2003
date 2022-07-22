@@ -9,6 +9,7 @@ image_metadata:
     Monthly Magazine XXI (June 1860), 16.
   image-alt: The Land Sharks.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: landsharks.jpg
 uid: f6f0f04c-b267-3caa-e5f6-8525a4ff124a
 ---
 The Land Sharks.
-

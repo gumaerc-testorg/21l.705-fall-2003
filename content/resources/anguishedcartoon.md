@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Cartoon showing anguished woman kneeling next to the body of a lynched
     man, by Laurence Foy.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: anguishedcartoon.jpg
 uid: f945bdc4-2d2c-e204-26ba-cf883c05a931
 ---
 Cartoon showing anguished woman kneeling next to the body of a lynched man, by Laurence Foy.
-

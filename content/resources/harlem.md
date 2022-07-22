@@ -9,6 +9,7 @@ image_metadata:
     Races, the official monthly publication of the NAACP (1910-present).'
   image-alt: 'Harlem Renaissance '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: harlem.jpg
 uid: 7e3491d3-cd7f-6b81-4ede-5273a36758c3
 ---
 Harlem Renaissance 
-

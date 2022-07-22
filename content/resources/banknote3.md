@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'Stonington Banknote (Garneray). '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: banknote3.jpg
 uid: b1d11750-e6a5-c8aa-5d35-ef4a114f212a
 ---
 Stonington Banknote (Garneray). Two Dollar Bill. StoningtonBank, Connecticut. 
-

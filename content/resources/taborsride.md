@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'John Tabor''s Ride. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: taborsride.jpg
 uid: 782c8a67-bc9e-1afd-0036-119641a7cb47
 ---
 John Tabor's Ride. Woodcut from an Almanac, 1841.
-

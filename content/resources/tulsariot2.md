@@ -12,6 +12,7 @@ image_metadata:
   image-alt: Furniture in street during race riot, probably due to eviction, Tulsa,
     Oklahoma, 1921.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: tulsariot2.jpg
 uid: 35ab5c0f-45c7-a11a-61d3-c3b49f336f1f
 ---
 Furniture in street during race riot, probably due to eviction, Tulsa, Oklahoma, 1921. 
-

@@ -9,6 +9,7 @@ image_metadata:
     Records.'
   image-alt: Tulsa, Oklahoma, race riot, June 1, 1921.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Morrison Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: tulsariot.jpg
 uid: 007e63f9-ef96-9453-25fc-cdccd59bf10e
 ---
 Tulsa, Oklahoma, race riot, June 1, 1921.
-

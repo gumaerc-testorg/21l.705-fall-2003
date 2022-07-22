@@ -9,6 +9,7 @@ image_metadata:
     Monthly Magazine XXI (June 1860), 19.
   image-alt: Charley Kotzenberger, The Harpooner.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: harpooner2.jpg
 uid: aded9c1e-8d22-ff59-53d6-2b43bf0a9396
 ---
 Charley Kotzenberger, The Harpooner. 
-

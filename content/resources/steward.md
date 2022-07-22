@@ -9,6 +9,7 @@ image_metadata:
     Monthly Magazine XXI (June 1860), 18.
   image-alt: The Steward.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: steward.jpg
 uid: edf65f1c-3a89-08aa-446a-dc061724dafe
 ---
 The Steward.
-

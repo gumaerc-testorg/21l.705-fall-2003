@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: French Harpooners.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: frenchharpooners.jpg
 uid: d6339cbc-2536-d731-ec4f-6defae2bab7e
 ---
 French Harpooners. Pêche de la Baleine, Harponnement (n.d.).
-

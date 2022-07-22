@@ -9,6 +9,7 @@ image_metadata:
     Monthly Magazine XXI (June 1860), 18.
   image-alt: The Cook and the Pilot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cookpilot.jpg
 uid: 2dad8e41-efe8-0a53-5577-fd3d7c9b5abb
 ---
 The Cook and the Pilot. 
-

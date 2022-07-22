@@ -9,6 +9,7 @@ image_metadata:
     Monthly Magazine XXI (June 1860), 15.
   image-alt: Packing Whalebone.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: packingwhalebone.jpg
 uid: 1547137f-fc67-d090-d2d3-c22a7e668b66
 ---
 Packing Whalebone. 
-

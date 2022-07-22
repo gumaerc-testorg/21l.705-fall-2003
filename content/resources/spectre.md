@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'The Spectre Whaleman. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: spectre.jpg
 uid: 04c59436-5874-6c24-4990-5186b5b54b9b
 ---
 The Spectre Whaleman. Woodcut from an Almanac, 1841.
-

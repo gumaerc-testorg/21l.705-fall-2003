@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'A Scramble for Salt Junk. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: scramblesalt.jpg
 uid: 4b328de8-13ff-5d6f-1d41-953b89c54463
 ---
 A Scramble for Salt Junk.  Colored engraving (n.d). 
-

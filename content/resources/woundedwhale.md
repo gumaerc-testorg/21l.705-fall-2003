@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: Wounded Sperm Whale.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: woundedwhale.jpg
 uid: 2e26ab1d-2c6f-d069-983e-816b8688a5fb
 ---
 Wounded Sperm Whale. Drawn by William Bradford (n.d.).
-

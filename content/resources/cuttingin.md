@@ -9,6 +9,7 @@ image_metadata:
     Harper Brothers, 1846).'
   image-alt: Cutting In and Trying Out.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuttingin.jpg
 uid: 747d009f-dfe3-6519-fb5c-3b4f595d3f32
 ---
 Cutting In and Trying Out. 
-

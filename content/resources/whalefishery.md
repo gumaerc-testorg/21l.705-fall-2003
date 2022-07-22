@@ -12,6 +12,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: Whale Fishery in Greenland.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: whalefishery.jpg
 uid: 61994cdd-c91c-367b-c6b6-7805da7cc643
 ---
 Whale Fishery in Greenland.  Engraved for George Henry Millar, The New Complete, Authentic, and Universal System of Geography (London: Hogg, 1782), published by Hogg.
-

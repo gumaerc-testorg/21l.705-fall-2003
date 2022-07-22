@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: Icelanders Fishing for Narwhal.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: icelanders.jpg
 uid: 8fb71dbb-637d-11cc-61d1-f8aed37e7b9d
 ---
 Icelanders Fishing for Narwhal. Engraving from The Naturalist's Library (n.d.).
-

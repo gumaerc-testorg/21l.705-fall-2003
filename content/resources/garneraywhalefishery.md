@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: Whale Fishery (After Garneray).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: garneraywhalefishery.jpg
 uid: 18387158-deb1-bc0b-0d45-7a52536c87d5
 ---
 Whale Fishery (After Garneray).Woodcut, n.d. 
-

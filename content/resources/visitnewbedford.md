@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: View of New Bedford.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: visitnewbedford.jpg
 uid: 2772045b-c61c-f1c0-4143-c8f3c9912a27
 ---
 View of New Bedford. Engraving drawn by J. W. Hill, engraved by Wellstood & Peters, published by Smith Brothers & Co., 1852. 
-

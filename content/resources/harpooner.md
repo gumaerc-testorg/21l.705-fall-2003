@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
   image-alt: 'Harpooner Striking a Whale. American. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Melville Images
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: harpooner.jpg
 uid: 09fc3488-5c9a-9eab-b0a8-964997abbc72
 ---
 Harpooner Striking a Whale. American. Colored woodcut (n.d.). 
-
