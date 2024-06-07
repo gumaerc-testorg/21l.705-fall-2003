@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Hawaiian Banknote. Five Dollar Bill, from Boston Bank Note Co (n.d.). '
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/45e91008d01c1983be83991042ef319e_banknote4.jpg
+file_size: 45190
 file_type: image/jpeg
 image_metadata:
   caption: Hawaiian Banknote. Five Dollar Bill, from Boston Bank Note Co (n.d.).

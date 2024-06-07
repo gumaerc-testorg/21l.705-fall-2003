@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Charley Kotzenberger, The Harpooner. '
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/aded9c1e8d22ff5953d62b43bf0a9396_harpooner2.jpg
+file_size: 92926
 file_type: image/jpeg
 image_metadata:
   caption: Charley Kotzenberger, The Harpooner.

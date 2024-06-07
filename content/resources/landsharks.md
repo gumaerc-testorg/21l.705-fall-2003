@@ -2,6 +2,7 @@
 content_type: resource
 description: The Land Sharks.
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/f6f0f04cb2673caae5f68525a4ff124a_landsharks.jpg
+file_size: 95246
 file_type: image/jpeg
 image_metadata:
   caption: The Land Sharks.
