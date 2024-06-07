@@ -3,6 +3,7 @@ content_type: resource
 description: Icelanders Fishing for Narwhal. Engraving from The Naturalist's Library
   (n.d.).
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/8fb71dbb637d11cc61d1f8aed37e7b9d_icelanders.jpg
+file_size: 75421
 file_type: image/jpeg
 image_metadata:
   caption: Icelanders Fishing for Narwhal. Engraving from The Naturalist's Library
