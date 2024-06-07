@@ -2,6 +2,7 @@
 content_type: resource
 description: Black Migration -- Exoduster Movement, 1878.
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/9169acc56c7d9348df00f78cb248231a_exoduster.jpg
+file_size: 36024
 file_type: image/jpeg
 image_metadata:
   caption: Black Migration -- Exoduster Movement, 1878.

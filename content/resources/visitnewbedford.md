@@ -3,6 +3,7 @@ content_type: resource
 description: 'View of New Bedford. Engraving drawn by J. W. Hill, engraved by Wellstood
   & Peters, published by Smith Brothers & Co., 1852. '
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/2772045bc61cf1c04143c8f3c9912a27_visitnewbedford.jpg
+file_size: 64655
 file_type: image/jpeg
 image_metadata:
   caption: View of New Bedford. Engraving drawn by J. W. Hill, engraved by Wellstood

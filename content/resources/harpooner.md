@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Harpooner Striking a Whale. American. Colored woodcut (n.d.). '
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/09fc34885c9a9eabb0a8964997abbc72_harpooner.jpg
+file_size: 105315
 file_type: image/jpeg
 image_metadata:
   caption: Harpooner Striking a Whale. American. Colored woodcut (n.d.).

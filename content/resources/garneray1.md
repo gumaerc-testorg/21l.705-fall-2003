@@ -3,6 +3,7 @@ content_type: resource
 description: "Engraving After Garneray. Ambroise Louis Garneray, P\xEAche de la Baleine,\
   \ engraved by Edouard Travies (n.d.)."
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/4ef5054c6fecab846e5cf98e224ec17d_garneray1.jpg
+file_size: 57948
 file_type: image/jpeg
 image_metadata:
   caption: "Engraving After Garneray. Ambroise Louis Garneray, P\xEAche de la Baleine,\
