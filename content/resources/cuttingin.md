@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Cutting In and Trying Out. '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/747d009fdfe36519fb5c3b4f595d3f32_cuttingin.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/747d009fdfe36519fb5c3b4f595d3f32_cuttingin.jpg
 file_size: 71202
 file_type: image/jpeg
 image_metadata:

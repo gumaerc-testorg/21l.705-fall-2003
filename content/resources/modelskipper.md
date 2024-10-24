@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Model Skipper.
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/0e6e31f267d2cc4b9bd965740acd5970_modelskipper.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/0e6e31f267d2cc4b9bd965740acd5970_modelskipper.jpg
 file_size: 69430
 file_type: image/jpeg
 image_metadata:

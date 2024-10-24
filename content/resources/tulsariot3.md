@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Smoke billowing over Tulsa, Oklahoma during 1921 race riots.
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/afbd3ec3cb0d71d69e2b07cdfa9d0863_tulsariot3.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/afbd3ec3cb0d71d69e2b07cdfa9d0863_tulsariot3.jpg
 file_size: 44113
 file_type: image/jpeg
 image_metadata:
