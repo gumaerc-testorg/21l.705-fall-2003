@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Furniture in street during race riot, probably due to eviction, Tulsa,
   Oklahoma, 1921. '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/35ab5c0f45c7a11a61d3c3b49f336f1f_tulsariot2.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/35ab5c0f45c7a11a61d3c3b49f336f1f_tulsariot2.jpg
 file_size: 60521
 file_type: image/jpeg
 image_metadata:
