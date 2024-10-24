@@ -3,7 +3,7 @@ content_type: resource
 description: 'Whale Fishery in Greenland.  Engraved for George Henry Millar, The New
   Complete, Authentic, and Universal System of Geography (London: Hogg, 1782), published
   by Hogg.'
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/61994cddc91c367bc6b67805da7cc643_whalefishery.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/61994cddc91c367bc6b67805da7cc643_whalefishery.jpg
 file_size: 67155
 file_type: image/jpeg
 image_metadata:
