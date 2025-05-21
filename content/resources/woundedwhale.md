@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wounded Sperm Whale. Drawn by William Bradford (n.d.).
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/2e26ab1d2c6fd069983e816b8688a5fb_woundedwhale.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/2e26ab1d2c6fd069983e816b8688a5fb_woundedwhale.jpg
 file_size: 38806
 file_type: image/jpeg
 image_metadata:

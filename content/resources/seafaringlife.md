@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Life in the Forecastle. Photo of illustration, A. A. Schmidt, J. Halpin.
   From J. Ross Browne, Etchings of a Whaling Cruise (New York: Harper Brothers, 1846). '
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/b534eed069b7d895d296e39b5892ae2c_seafaringlife.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/b534eed069b7d895d296e39b5892ae2c_seafaringlife.jpg
 file_size: 78154
 file_type: image/jpeg
 image_metadata:
