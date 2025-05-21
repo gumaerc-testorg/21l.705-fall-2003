@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Spectre Whaleman. Woodcut from an Almanac, 1841.
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/04c5943658746c2449905186b5b54b9b_spectre.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/04c5943658746c2449905186b5b54b9b_spectre.jpg
 file_size: 74533
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "French Harpooners. P\xEAche de la Baleine, Harponnement (n.d.)."
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/d6339cbc2536d731ec4f6defae2bab7e_frenchharpooners.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/d6339cbc2536d731ec4f6defae2bab7e_frenchharpooners.jpg
 file_size: 89792
 file_type: image/jpeg
 image_metadata:

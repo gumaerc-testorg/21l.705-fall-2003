@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Archie, Fred, and Eugene.
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/6f07d1176794a663a01c5901bd07bf45_3guys.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/6f07d1176794a663a01c5901bd07bf45_3guys.jpg
 file_size: 56557
 file_type: image/jpeg
 image_metadata:

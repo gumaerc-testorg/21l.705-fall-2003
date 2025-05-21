@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Stonington Banknote (Garneray). Two Dollar Bill. StoningtonBank, Connecticut. '
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/b1d11750e6a5c8aa5d35ef4a114f212a_banknote3.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/b1d11750e6a5c8aa5d35ef4a114f212a_banknote3.jpg
 file_size: 52722
 file_type: image/jpeg
 image_metadata:

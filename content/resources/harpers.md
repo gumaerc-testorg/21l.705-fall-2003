@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'A Summer in New England. '
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/0d7d672f5b565ad683f42d2b636fce11_harpers.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/0d7d672f5b565ad683f42d2b636fce11_harpers.jpg
 file_size: 62977
 file_type: image/jpeg
 image_metadata:

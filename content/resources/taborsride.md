@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: John Tabor's Ride. Woodcut from an Almanac, 1841.
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/782c8a67bc9e1afd0036119641a7cb47_taborsride.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/782c8a67bc9e1afd0036119641a7cb47_taborsride.jpg
 file_size: 67687
 file_type: image/jpeg
 image_metadata:
