@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The Cook and the Pilot. '
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/2dad8e41efe80a535577fd3d7c9b5abb_cookpilot.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/2dad8e41efe80a535577fd3d7c9b5abb_cookpilot.jpg
 file_size: 86807
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Whale Being Harpooned.Colored engraving (n.d.). '
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/abffc6e8b6c24d117afc9a3f2a3f513a_whaling2.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/abffc6e8b6c24d117afc9a3f2a3f513a_whaling2.jpg
 file_size: 62998
 file_type: image/jpeg
 image_metadata:

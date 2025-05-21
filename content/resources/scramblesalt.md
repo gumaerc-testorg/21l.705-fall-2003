@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'A Scramble for Salt Junk.  Colored engraving (n.d). '
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/4b328de813ff5d6f1d41953b89c54463_scramblesalt.jpg
+file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/4b328de813ff5d6f1d41953b89c54463_scramblesalt.jpg
 file_size: 77435
 file_type: image/jpeg
 image_metadata:
