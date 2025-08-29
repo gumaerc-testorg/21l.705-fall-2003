@@ -2,7 +2,7 @@
 content_type: resource
 description: Black Migration -- Exoduster Movement. Town site plan for Nicodemus,
   Kansas, 1877-1890.
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/8564ccf16275e80a693eee10fa3b5b40_migration.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/8564ccf16275e80a693eee10fa3b5b40_migration.jpg
 file_size: 55983
 file_type: image/jpeg
 image_metadata:

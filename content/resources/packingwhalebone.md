@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Packing Whalebone. '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/1547137ffc67d090d2d3c22a7e668b66_packingwhalebone.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/1547137ffc67d090d2d3c22a7e668b66_packingwhalebone.jpg
 file_size: 99050
 file_type: image/jpeg
 image_metadata:
