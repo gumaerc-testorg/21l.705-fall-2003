@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Whale Fishery (After Garneray).Woodcut, n.d. '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/18387158deb1bc0b0d457a52536c87d5_garneraywhalefishery.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/18387158deb1bc0b0d457a52536c87d5_garneraywhalefishery.jpg
 file_size: 85177
 file_type: image/jpeg
 image_metadata:
