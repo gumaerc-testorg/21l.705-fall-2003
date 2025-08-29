@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Soapine Advertisment. Soapine Advertisment, Kendall Manufacturing Company,
   Providence, Rhode Island (n.d.). '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/d1db2c9f5c9317965a39a65f2bfd2054_soapine.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/d1db2c9f5c9317965a39a65f2bfd2054_soapine.jpg
 file_size: 71058
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Engraving After Garneray. Identified as "Usual Whaling Scene: Colored--modern." '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/86bfa67cba8a9e86daa4a51922489650_garneray2.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/86bfa67cba8a9e86daa4a51922489650_garneray2.jpg
 file_size: 65673
 file_type: image/jpeg
 image_metadata:

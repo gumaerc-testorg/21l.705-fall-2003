@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Harlem Renaissance '
-file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/7e3491d3cd7f6b814ede5273a36758c3_harlem.jpg
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-melville-and-morrison-fall-2003/7e3491d3cd7f6b814ede5273a36758c3_harlem.jpg
 file_size: 59057
 file_type: image/jpeg
 image_metadata:
