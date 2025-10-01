@@ -25,7 +25,7 @@ This course is cross-listed in the Program in Women's Studies and the Department
 Uses of Multimedia
 ------------------
 
-This course has been planned in conjunction with the [MetaMedia Project at MIT](http://www.rrtn.org/adias2/platform/mit-metamedia) to develop uses of electronic media in the humanities. We will be exploring online texts, visual arts, film, and music in relation to the texts studied in class and will work with a database of materials that will support research, writing, and in-class presentations. No technical experience is necessary.
+This course has been planned in conjunction with the {{% resource_link "a40fdbf6-07a8-4b64-9b82-55ea9e01cf54" "MetaMedia Project at MIT" %}} to develop uses of electronic media in the humanities. We will be exploring online texts, visual arts, film, and music in relation to the texts studied in class and will work with a database of materials that will support research, writing, and in-class presentations. No technical experience is necessary.
 
 Required Texts
 --------------
@@ -55,4 +55,4 @@ Plagiarism attacks the freedom and integrity of thought.  Especially in a class
 
 ### Plagiarism
 
-Use of another's intellectual work without acknowledgement- is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance see the [MIT Web site on plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Use of another's intellectual work without acknowledgement- is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance see the {{% resource_link "7e4e4fc4-303e-4a2e-a3ff-a9aac9367753" "MIT Web site on plagiarism" %}}.
